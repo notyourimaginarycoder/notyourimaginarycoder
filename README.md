@@ -26,3 +26,5 @@
 # projects
 
 - **[portfolio](https://github.com/notyourimaginarycoder/notyourimaginarycoder.github.io)**: personal project to show off some css, html, javascript.
+
+---

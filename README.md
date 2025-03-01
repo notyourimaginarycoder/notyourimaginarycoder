@@ -1,4 +1,4 @@
-## skills
+# skills
 
 - **languages**:
     - **systems programming**: assembly, c, c++
@@ -13,12 +13,16 @@
     - **databases**: mysql workbench, postgresql
     - **IDEs & editors**: visual studio, visual studio code
 
-## stats
+---
+
+# stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notyourimaginarycoder&show_icons=true&count_private=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourimaginarycoder&hide_title=true)
 
-## projects
+---
+
+# projects
 
 - **[portfolio](https://github.com/notyourimaginarycoder/notyourimaginarycoder.github.io)**: personal project to show off some css, html, javascript.

@@ -7,8 +7,9 @@
 
 ## stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notyourimaginarycoder&show_icons=true&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourimaginarycoder)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notyourimaginarycoder&show_icons=true&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourimaginarycoder&hide_title=true)
 
 ## projects
 

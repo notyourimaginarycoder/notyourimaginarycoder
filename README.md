@@ -17,8 +17,6 @@
     - **databases**: mysql workbench, postgresql
     - **IDEs & editors**: visual studio, visual studio code
 
----
-
 <div align="center">
 
 # stats
@@ -29,8 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notyourimaginarycoder&hide_title=true)
 
----
-
 <div align="center">
 
 # projects
@@ -38,5 +34,3 @@
 </div>
 
 - **[portfolio](https://github.com/notyourimaginarycoder/notyourimaginarycoder.github.io)**: personal project to show off some css, html, javascript.
-
----

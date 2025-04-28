@@ -37,7 +37,7 @@ life is but a dream.
 
 </div>
 
-- **[portfolio](https://github.com/notyourimaginarycoder/notyourimaginarycoder.github.io)**: personalized portfolio - created using html, css, js.
+- **[portfolio](https://notyourimaginarycoder.github.io)**: personalized portfolio - created using html, css, js.
 - **[stackdew valley](https://stackdewvalley-686c6.web.app/)**: a 2d farming simulator with a twist - created using vite, phaser and firebase.
 
 ---
